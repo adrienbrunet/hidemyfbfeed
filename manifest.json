@@ -1,4 +1,5 @@
 {
+
   "description": "Hides your facebook timeline",
   "manifest_version": 1,
   "name": "HideMyFbFeed",
@@ -14,4 +15,5 @@
       "js": ["hidemyfbfeed.js"]
     }
   ]
+
 }
